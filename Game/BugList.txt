@@ -1,0 +1,6 @@
+Bug List:
+
+-Pressing escape to pause, cant press to resume. Need a way to detect when a Key has just been pressed
+	-Perhaps an input handler node that isn't affected by it's parents pause
+
+-Pressing pause while inventory is up might be kindof buggy? also pressing inventory while paused..
